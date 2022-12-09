@@ -9,26 +9,18 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="" target="_blank">
+  <a href="https://www.youtube.com/channel/UCuQmYExjgDG4LES0ukKFp4Q" target="_blank">
   <img src="https://img.shields.io/youtube/channel/views/UCuQmYExjgDG4LES0ukKFp4Q?logo=youtube&logoColor=red&style=for-the-badge" alt="youtube/Dawada" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.youtube.com/channel/UCuQmYExjgDG4LES0ukKFp4Q" target="_blank">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCuQmYExjgDG4LES0ukKFp4Q?logo=youtube&logoColor=red&style=for-the-badge" alt="youtube" />
   </a>
 </div>
 
+🐰 About Me:
 
-<!--
-**DawadaBasti/DawadaBasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Overskull
+- 🌱 I’m currently learning Vue Js
+- 💬 Ask me about Javascript and Vue Js
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
